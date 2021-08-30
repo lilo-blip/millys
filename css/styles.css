@@ -1,3 +1,11 @@
 .header {
   background-color: chocolate;
 }
+.card-body {
+  background-color: darkorange;
+  display: table-cell; 
+}
+.colour {
+  display: table;
+  width: 100%;
+}
