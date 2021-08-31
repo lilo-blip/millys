@@ -1,11 +1,75 @@
+h1 {
+  font-size: 200px;
+  color: orange;
+  font-family: Apple chancery, cursive;
+}
 .header {
-  background-color: chocolate;
+  text-align: center;
+  
+}
+.header p {
+  color: white;
+}
+h2 {
+  
+  color: white;
+  text-align: center;
 }
 .card-body {
   background-color: darkorange;
   display: table-cell; 
+  height: 520px;
+  border-radius: 25px;
+}
+.card-body1 {
+  display: table-cell;
+  border-color: 2px solid orange;
+  border-radius: 25px;
+  background-color: black;
 }
 .colour {
   display: table;
   width: 100%;
+}
+.card {
+  background-color: black;
+}
+
+#pilau {
+  width: 310px;
+  height: 200px;
+}
+#ricebeef {
+  width:310px;
+  height: 200px;
+}
+#fries {
+  width: 310px;
+  height: 200px;
+}
+#bhajia {
+  width: 310px;
+  height: 200px;
+}
+#chapobeans {
+  width: 310px;
+  height: 200px;
+}
+body {
+  background-color: black;
+  margin: 20px;
+  border: 1px solid orange;
+}
+.footer {
+  text-align: center;
+  color: white;
+}
+.row {
+  padding: 20px 30px 20px 0px;
+}
+#welcome {
+  float: right;
+  position: relative;
+  bottom: 250px;
+  right: 30px;
 }
